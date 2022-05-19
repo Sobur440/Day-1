@@ -23,7 +23,7 @@ function All() {
   }
   
   let currentDay = Min.getDate()
-  Day.innerHTML =  ` ${currentDay} /`
+  Day.innerHTML =  ` ${currentDay}/`
   
   let currentMonth = Min.getMonth()
   Month.innerHTML = ` ${currentMonth + 1}/`
