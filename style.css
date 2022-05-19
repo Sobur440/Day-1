@@ -1,0 +1,65 @@
+*{
+  text-align: center;
+}
+.first, .second, .Third {
+  height: 100px;
+  width: 60px;
+  margin: 20px;
+  box-shadow:0px 10px 20px rgba(0,0,0,0.5)
+}
+
+#parent {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.time {
+  font-weight: bold;
+  font-size: 1.5rem;
+
+}
+.par1 {
+  display: flex;
+  
+}
+p {
+  align-self: center;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.date {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.first {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Third {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.day, .month, .year {
+    font-size: 1.5rem;
+    font-weight: bold
+}
+#datto {
+  display: flex;
+  justify-content: center;
+}
